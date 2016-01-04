@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_text">Click</string>
+    <string name="wine">Wine or beer?</string>
+    <string name="title_activity_wine">WineActivity</string>
+    <string name="title_activity_beer">BeerActivity</string>
+    <string name="b_choose">You chose wine, I expected beer</string>
+    <string name="w_choose">You chose beer! Good boy!</string>
+    <string name="notif_title">Notification title</string>
+    <string name="notif_content">Notification content</string>
+    <string name="why">Why</string>
+    <string name="title_activity_read_file">Readfile</string>
+    <string name="why_content">This app has been created for a mobile development project of ESIEA students.\n\n
+       This is Alexis Wychovaniak and Paul Antoine Arrighi work.\n
+        The goal is to chose between wine and beer \n\n
+        There is toast, alert dialog\n
+        Press OK to close this window</string>
+</resources>

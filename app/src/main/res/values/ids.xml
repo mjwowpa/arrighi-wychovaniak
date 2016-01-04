@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="rv_Biers" type="id" />
+    <item name="rv_biers_element_name" type="id" />
+    <item name="picture" type="id" />
+</resources>

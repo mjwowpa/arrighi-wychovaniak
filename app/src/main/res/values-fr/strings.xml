@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mon application</string>
+    <string name="action_settings">Options</string>
+    <string name="button_text">Clic</string>
+    <string name="wine">Vin ou biere?</string>
+    <string name="title_activity_wine">Vin</string>
+    <string name="title_activity_beer">Biere</string>
+    <string name="b_choose">Vous avez choisi le vin, j attendais la biere</string>
+    <string name="w_choose">Vous avez choisi la biere! Bien joué</string>
+    <string name="notif_title">Notification titre</string>
+    <string name="notif_content">Notification contenu</string>
+    <string name="why">Pourquoi</string>
+    <string name="title_activity_read_file">Lecture fichier</string>
+    <string name="why_content">Cette application a été créer par des étudiants de l esiea pour un projet.\n\n
+       Réaliser par Alexis Wychovaniak et Paul-Antoine Arrighi.\n
+        Le but est de choisir entre du vin et de la biere\n\n
+        Il y a des toast, des alert dialog etc\n
+        Appuyer sur ok pour fermer la fenetre et revenir au menu</string>
+</resources>
